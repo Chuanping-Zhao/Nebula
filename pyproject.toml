@@ -1,0 +1,12 @@
+[project]
+name = "nebula"
+version = "0.0.1"
+description = "A Python toolkit for metabolomics data analysis."
+dependencies = [
+    "pandas",
+    "openpyxl"
+]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
