@@ -7,3 +7,6 @@ output/
 
 # macÎÄ¼şºöÂÔ
 .DS_Store
+
+# scrºöÂÔÏî
+*.egg-info/
